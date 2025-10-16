@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Saimanikanta Phani Teja U
+# 👋 Hi, I'm Teja Upadhyayula
 
 🎓 **MS in Computer Science @ University of Texas at Arlington** (GPA: 4.0)  
 💻 **Software Developer | Full-Stack Engineer | Cloud Enthusiast**  
