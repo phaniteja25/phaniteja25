@@ -1,12 +1,9 @@
 # 👋 Hi, I'm Teja Upadhyayula
 
-🎓 **MS in Computer Science @ University of Texas at Arlington** (GPA: 4.0)  
-💻 **Software Developer | Full-Stack Engineer | Cloud Enthusiast**  
-📍 Dallas, TX | ✉️ [phanitejau@gmail.com](mailto:phanitejau@gmail.com) | [LinkedIn](https://linkedin.com/in/phanitejau)
+I am a Computer Science grad student from University of Texas at Arlington with a keen interest in Software Engineering, Data Science and Machine Learning.
+I thrive on solving complex problems and creating innovative solutions. I am passionate about building scalable systems which 
 
----
-
-## 🚀 About Me
+## 🚀 
 
 I'm a **software developer** passionate about building integrated platforms that combine **robust backend design** and **intuitive front-end experiences**.  
 My journey includes impactful internships at **Paycom** and **Cosups**, where I built scalable web and mobile solutions with a strong focus on usability, automation, and performance.  
